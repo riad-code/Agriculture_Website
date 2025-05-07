@@ -22,8 +22,6 @@ The site helps farmers and agriculture enthusiasts access **important resources 
 - **VS Code** (for coding)
 - **Google Chrome** (for testing)
 
----
-
 ## 📌 Development Process
 ### 1️⃣ Requirement Analysis & Planning
 - Identified key pages needed:
